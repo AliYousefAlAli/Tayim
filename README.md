@@ -1,2 +1,3 @@
 # Tayim
 Learn Git 
+## Notes
